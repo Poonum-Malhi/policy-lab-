@@ -96,8 +96,7 @@ Think of it as a **risk-free space to learn, experiment, and understand policy d
 ##  Learn More
 
 -  **Live App:** [https://shape-policy-shift.base44.app/login](https://shape-policy-shift.base44.app/login)
--  **Full Article:** [Read the Vision Behind Policy Lab](#) *(Add your article link)*
-
+- 
 ---
 
 ##  Disclaimer
